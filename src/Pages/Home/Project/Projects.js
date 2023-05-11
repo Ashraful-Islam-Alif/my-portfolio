@@ -87,7 +87,7 @@ const Projects = () => {
                         </div>
                         <div className="static mt-4">
                             <div className="absolute bottom-0 left-0 w-full">
-                                <a target="_blank" href="https://mastodon-services.web.app/" ><button type="button" class="btn btn-primary text-white text-lg w-full">Live Website</button></a>
+                                <a target="_blank" href="https://easy-schedule-77cce.web.app/" ><button type="button" class="btn btn-primary text-white text-lg w-full">Live Website</button></a>
                             </div>
                         </div>
                         {/* <a target="_blank" href="https://laptop-bazar-e6bbe.firebaseapp.com/" ><button type="button" class="btn btn-primary text-white text-lg w-full">Live Website</button></a> */}
